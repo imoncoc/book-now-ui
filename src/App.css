@@ -1,0 +1,30 @@
+
+
+.login {
+  background: var(--mainGreen);
+  color: var(--mainDark);
+}
+
+.login-btn{
+  background: transparent;
+    border: 0.1rem solid var(--mainDark) ;
+    color: var(--mainDark);
+    padding: 8px 16px;
+    border-radius: .3rem;
+    transition: all 0.3s;
+}
+.login-btn:hover {
+  background: var(--mainDark);
+  color: var(--mainWhite);
+}
+
+.contact-btn {
+  background: transparent;
+  border: 0.1rem solid var(--mainWhite);
+  color: var(--mainWhite);
+}
+
+.contact-btn:hover {
+  background: var(--mainWhite);
+  color: var(--mainGreen);
+}

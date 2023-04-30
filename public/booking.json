@@ -1,0 +1,56 @@
+[
+  {
+    "id": "001",
+    "category": "Standard Single Room",
+    "details": "Standard Single Rooms are designed in open concept living area and have many facilities",
+    "bed": 1,
+    "person": 1,
+    "price": 119,
+    "image": "https://images.unsplash.com/photo-1580862842845-5aa6f6438329?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "id": "002",
+    "category": "Couple Power Room",
+    "details": "Superior Double Rooms are perfectly equipped for traveling couples or friends",
+    "bed": 1,
+    "person": 2,
+    "price": 149,
+    "image": "https://images.unsplash.com/flagged/photo-1556438758-8d49568ce18e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80"
+  },
+  {
+    "id": "003",
+    "category": "Family Capacity Room",
+    "details": "Have lots of in-room facilities and designed in open concept living area",
+    "bed": 2,
+    "person": 4,
+    "price": 199,
+    "image": "https://images.unsplash.com/photo-1635315891380-f70330a5b41b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "id": "004",
+    "category": "Standard Single Room",
+    "details": "Standard Single Rooms are designed in open concept living area and have many facilities",
+    "bed": 1,
+    "person": 1,
+    "price": 135,
+    "image": "https://images.unsplash.com/photo-1590490360836-2e3b067c082b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "id": "005",
+    "category": "Couple Power Room",
+    "details": "Superior Double Rooms are perfectly equipped for traveling couples or friends",
+    "bed": 1,
+    "person": 2,
+    "price": 169,
+    "image": "https://images.unsplash.com/photo-1609766857041-ed402ea8069a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "id": "006",
+    "category": "Family Capacity Room",
+    "details": "Have lots of in-room facilities and designed in open concept living area",
+    "bed": 2,
+    "person": 4,
+    "price": 299,
+    "image": "https://images.unsplash.com/photo-1610019524813-fd7487ec477e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80"
+  }
+]

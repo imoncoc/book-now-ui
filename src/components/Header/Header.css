@@ -1,0 +1,10 @@
+.navbar {
+    background: #242325;
+}
+
+.phone-icon {
+    color: #61e786;
+    border: 0.1rem solid #61e786;
+    padding: 0.5rem;
+    border-radius: 50%;
+}
